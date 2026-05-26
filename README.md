@@ -5,11 +5,13 @@
 I am a student at Richland High School interested in technology and computer science
 
 ## Skills
-Java,
-Python,
-Cybersecurity,
-Networking,
-and Problem Solving
+-Java
+-Python
+-ASL
+-Technology
+-Math
+-Problem Solving
+-Good at Negotiations
 
 ## Career Goals
-I want to pursue a career in technology.
+I want to pursue a career in technology or law.
