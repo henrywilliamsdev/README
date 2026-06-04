@@ -1,6 +1,3 @@
-# README
-# Henry
-
 ## About Me
 I am a student at Richland High School interested in technology and computer science
 
